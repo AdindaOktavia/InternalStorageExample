@@ -1,0 +1,4 @@
+Ini percobaan menyimpan file di Android mengunakan bahasa pemrograman Kotlin. Silahkan anda klik button Save Text di bawah ini untuk menyimpan teks ini kedalam file rpl.txt.
+
+Terima Kasih Yaa:)
+Senang bisa berkenalan dengan anda.
